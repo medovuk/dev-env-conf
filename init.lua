@@ -1,3 +1,3 @@
-require("alexdev.core.init")
-require("alexdev.lazy")
-require("alexdev.lsp")
+require 'alexdev.core.init'
+require 'alexdev.lazy'
+require 'alexdev.lsp'
